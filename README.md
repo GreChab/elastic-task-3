@@ -4,4 +4,4 @@ Elasticsearch Low Level REST Client are available under http://localhost:8080/ap
 
 Elasticsearch Java API Client are available under http://localhost:8080/api/v2/employees
 
-Screenshots for Low Level REST Client are in /screenshots directory
+Screenshots for Low Level REST Client are in src/main/resources/screenshot directory
